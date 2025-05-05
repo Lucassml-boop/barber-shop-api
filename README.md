@@ -62,6 +62,3 @@ Este repositório contém o backend do sistema de gerenciamento de uma barbearia
 
    A API estará disponível em `http://localhost:8080/`.
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Entre em contato com o mantenedor para mais detalhes.
